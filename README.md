@@ -24,16 +24,15 @@ vous trouverez un fichier [USER_GUIDE.md](https://github.com/iliasssss/Projet-Gr
 ### Semaine 1 
 | NOM | Roles | Description |
 | :-- |:----- | :---------- |
-| Ilias    | Scrum Master      | Garant de la progression et de l'application de la méthode scrum    |
-|  Michael   | Product Owner      |  Garant de la qualité du produit final et représentant du client   |
-|  Jérôme  |       |             |  Tests et travail sur présentation   |
+| Ilias    | Scrum Master      | Garant de la progression et de l'application de la méthode scrum   |
+|  Michael   | Product Owner   |  Garant de la qualité du produit final et représentant du client   |
+|  Jérôme  |       |           |  Tests et travail sur présentation   |
 
 ### Semaine 2 
 | NOM | Roles | Description |
 | :-- |:----- | :---------- |
-| Ilias    |       |            |
-|  Michael   | Scrum Master      |  Garant de la progression et de l'application de la méthode scrum   |
-|  Jérôme  |  Product Owner     |  Garant de la qualité du produit final et représentant du client    |
+|  Michael | Scrum Master     |  Garant de la progression et de l'application de la méthode scrum   |
+|  Jérôme  |  Product Owner   |  Garant de la qualité du produit final et représentant du client    |
 
 
 ## <font color='red'> <p align =center> Choix Techniques
