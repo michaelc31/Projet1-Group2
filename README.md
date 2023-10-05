@@ -94,4 +94,4 @@ Durant nos 2 semaines de Projet : nous avons reussi à crée la database sécuri
 
   - KPGoogleSync : Extension permettant la synchronisation avec Google Drive 
 
-Se qui permettrait à l'utilisateur une utilisation plus simple de Keepass tout en gardant un maximun de Sécurité.
+Se qui permettrait à l'utilisateur une utilisation quotidienne plus simple de Keepass tout en gardant un maximun de Sécurité.
