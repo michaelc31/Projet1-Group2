@@ -12,7 +12,7 @@ Pour cela nous allons débuter par le téléchargement du logiciel sur son [Site
 ###  - _**Etape 1 :**_ 
 Sur le site officiel de **[keepass](https://keepass.info/)**. "a l'heure de la documentation la version 2.54 sera la version choisie."
 
-Cliquez sur le lien du nom de *"Keepass 2.54 Released"*
+Cliquez sur le lien du nom de *"Keepass 2.54 Released"*, (si vous ne trouvez pas la Version 2.54, télécharger une mise à jour plus récente ou au moment de la 1ere utilisation de Keepass il vous demandera de faire une mise à jour.) 
 
 ![IMG](https://github.com/michaelc31/Projet-image/blob/main/Install%200.png?raw=true)
 
