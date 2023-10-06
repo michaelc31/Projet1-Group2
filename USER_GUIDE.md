@@ -1,4 +1,19 @@
 # Guide Utilisateur v1.0 de KeePass2
+# Sommaire
+
+[Les principal fonctionnalité de Keepass2](#Les-principales-fonctionnalites-de-KeePass2)
+
+[Préparer la base de données](#Préparer-la-base-de-données)
+
+[Ajouter des mots de passe](#Ajouter-des-mots-de-passe)
+
+[Récupération d'information sur une Entrée](#Récupération-d'information-sur-une-Entrée)
+
+[Réglage Auto-Type pour une saisie automatique reussi](#Réglage-Auto-Type-pour-une-saisie-automatique-reussi)
+
+[Problème](#Problème)
+
+
 ## Les principales fonctionnalités de KeePass2
 
 A présent KeePass2 est pret à stocker vos mots de passe, mais en priorité nous allons créer votre base de données.
