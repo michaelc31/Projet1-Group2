@@ -1,17 +1,19 @@
 # Guide Utilisateur v1.0 de KeePass2
+
 # Sommaire
 
-[Les principal fonctionnalité de Keepass2](#Les-principales-fonctionnalites-de-KeePass2)
+[Les principal fonctionnalité de Keepass2](https://github.com/michaelc31/Projet1-Group2/blob/main/USER_GUIDE.md#les-principales-fonctionnalit%C3%A9s-de-keepass2)
 
-[Préparer la base de données](https://github.com/michaelc31/Projet1-Group2/blob/main/USER_GUIDE.md#les-principales-fonctionnalit%C3%A9s-de-keepass2)
+[Préparer la base de données](https://github.com/michaelc31/Projet1-Group2/blob/main/USER_GUIDE.md#pr%C3%A9parer-la-base-de-donn%C3%A9es)
 
 [Ajouter des mots de passe](#Ajouter-des-mots-de-passe)
 
-[Récupération d'information sur une Entrée](#Récupération-d'information-sur-une-Entrée)
+[Récupération d'information sur une Entrée](https://github.com/michaelc31/Projet1-Group2/blob/main/USER_GUIDE.md#r%C3%A9cup%C3%A9ration-dinformation-sur-une-entr%C3%A9e-)
 
 [Réglage-Auto-Type-pour-une-saisie-automatique-reussi](https://github.com/michaelc31/Projet1-Group2/blob/main/USER_GUIDE.md#r%C3%A9glage-auto-type-pour-une-saisie-automatique-reussi-)
 
-[Problème](#Problème)
+[Problème](https://github.com/michaelc31/Projet1-Group2/blob/main/USER_GUIDE.md#probl%C3%A8me-)
+
 
 
 ## Les principales fonctionnalités de KeePass2
