@@ -12,7 +12,7 @@
 
 [Réglage-Auto-Type-pour-une-saisie-automatique-reussi](https://github.com/michaelc31/Projet1-Group2/blob/main/USER_GUIDE.md#r%C3%A9glage-auto-type-pour-une-saisie-automatique-reussi-)
 
-[Problème](https://github.com/michaelc31/Projet1-Group2/blob/main/USER_GUIDE.md#probl%C3%A8me-)
+[Problèmes](https://github.com/michaelc31/Projet1-Group2/blob/main/USER_GUIDE.md#probl%C3%A8me-)
 
 
 
@@ -148,9 +148,9 @@ Une fois dans l'entrée, aller sur l'onglet "Auto-Type", et cocher "Override def
 
 ![img17](https://github.com/michaelc31/Projet-image/blob/main/Suite6.png?raw=true)
 
-## Problème :
+## Problèmes :
 
-| Probleme | Solution   |
+| Problèmes | Solutions   |
 |---|---|
 | Vous n'arrivez pas à lancer Keepass2  | Vérifier que Keepass2 est bien installé.   |
 | Vous n'arrivez pas à vous connecter à la Database |  Etes vous sûr de votre mot de passe ?  |
