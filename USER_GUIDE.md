@@ -3,7 +3,7 @@
 
 [Les principal fonctionnalité de Keepass2](#Les-principales-fonctionnalites-de-KeePass2)
 
-[Préparer la base de données](#Préparer-la-base-de-données)
+[Préparer la base de données](https://github.com/michaelc31/Projet1-Group2/blob/main/USER_GUIDE.md#les-principales-fonctionnalit%C3%A9s-de-keepass2)
 
 [Ajouter des mots de passe](#Ajouter-des-mots-de-passe)
 
