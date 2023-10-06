@@ -99,7 +99,7 @@ Ce qui permettrait à l'utilisateur une utilisation quotidienne plus simple de K
 
 ## Alternatives 
 
-Quelques gestionnaires gratuits et open source :
+Quelques gestionnaires gratuits et open source de mots de passe :
 
 [Bitwarden](https://bitwarden.com) : mots de passe stockés sur leurs serveurs, gratuit jusqu'à 1000 mots de passe.
 
