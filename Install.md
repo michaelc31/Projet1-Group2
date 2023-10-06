@@ -1,5 +1,5 @@
 # Guide d'installation v1.0 de KeePass2
-Ce guide d'installation, va vous permettre de suivre _PAS à PAS_ la procèdure d'installation du logiciel `KEEPASS2`
+Ce guide d'installation, va vous permettre de suivre _PAS à PAS_ la procédure d'installation du logiciel `KEEPASS2`
 Pour cela nous allons débuter par le téléchargement du logiciel sur son [Site](https://keepass.info/), jusqu'au lancement de Keepass. (Date de Documentation 03 Octobre 2023)
 
      ***Pour se faire vous aurez besoin :***
