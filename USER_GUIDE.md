@@ -10,7 +10,7 @@
 
 [Récupération d'information sur une Entrée](https://github.com/michaelc31/Projet1-Group2/blob/main/USER_GUIDE.md#r%C3%A9cup%C3%A9ration-dinformation-sur-une-entr%C3%A9e-)
 
-[Réglage-Auto-Type-pour-une-saisie-automatique-reussi](https://github.com/michaelc31/Projet1-Group2/blob/main/USER_GUIDE.md#r%C3%A9glage-auto-type-pour-une-saisie-automatique-reussi-)
+[Réglage Auto-Type pour une saisie automatique reussie](https://github.com/michaelc31/Projet1-Group2/blob/main/USER_GUIDE.md#r%C3%A9glage-auto-type-pour-une-saisie-automatique-reussi-)
 
 [Problèmes](https://github.com/michaelc31/Projet1-Group2/blob/main/USER_GUIDE.md#probl%C3%A8me-)
 
