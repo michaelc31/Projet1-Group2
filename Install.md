@@ -33,7 +33,7 @@ Choissisez votre Language et cliquez sur **"Suivant"**
 
 ![IMG](https://github.com/michaelc31/Projet-image/blob/main/install%203.png?raw=true)
 
-Ceci fait, nous passons sur l'accord de Licence que nous devont accepter pour poursuivre l'installation.
+Une fois réalisé, nous passons sur l'accord de Licence que nous devons accepter pour poursuivre l'installation.
 
 ![IMG](https://github.com/michaelc31/Projet-image/blob/main/install%204.png?raw=true)
 
@@ -45,7 +45,7 @@ Dans la suite de l'installation, nous allons choisir le dossier de destination d
 
 ***A cette étape***, nous allons définir comment nous allons installer le logiciel,
 
-     - Installation complete : installe tous les composants du logiciel
+     - Installation complète : installe tous les composants du logiciel
      
      - Installation compacte : installe que les fichiers de base Keepass 
      
@@ -65,6 +65,6 @@ cliquez sur "Installer", cela lancera l'installation avec les paramètres precé
 
 ### - ***étape 5 :***
 
-"Ca y est, on en voit la Fin". il ne vous reste plus qu'à cliquer sur terminer pour lancer le logiciel ou non en laissant cocher ou non "Exécuter Keepass"
+Enfin. il ne vous reste plus qu'à cliquer sur "terminer" pour lancer le logiciel ou non en laissant cocher ou non "Exécuter Keepass"
 
 ![IMG](https://github.com/michaelc31/Projet-image/blob/main/install%209.png?raw=truegit)
