@@ -15,9 +15,7 @@ Indiquer le dossier dans lequel le fichier .kdbx sera stocké.
 
 Il faut maintenant définir le **MasterPASSWORD** qui permet d'accéder à la plateforme qui mémorise tous les mots de passe, il doit être à la fois complexe mais aussi suffisamment simple à retenir.
 
-Pour créer un mot de passe solide nous utiliserons **une passphrase** : est un mot de passe d'un nombre important de caractères. On parle de _passphrase_ plutôt que de _mot de passe_ parce qu'elle contient souvent des 
-
-suites de mots qui ressemblent parfois à une phrase pour des raisons mnémotechniques. ***(exemple : le Groupe 2 protège vos données personnelles depuis 2023 = lG2pvdpd2023)***
+Pour créer un mot de passe solide nous utiliserons **une passphrase** : est un mot de passe d'un nombre important de caractères. On parle de _passphrase_ plutôt que de _mot de passe_ parce qu'elle contient souvent des suites de mots qui ressemblent parfois à une phrase pour des raisons mnémotechniques. ***(exemple : le Groupe 2 protège vos données personnelles depuis 2023 = lG2pvdpd2023)***
 
 ![img3](https://img-19.commentcamarche.net/YtdHVYmP0IX6Ce6bWNi4cjtE0dc=/450x/smart/19b5e6e917ec4e98bb5d26efb9352eeb/ccmcms-commentcamarche/24056267.png)
 
