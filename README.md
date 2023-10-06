@@ -27,7 +27,7 @@ Vous trouverez un fichier [USER_GUIDE.md](https://github.com/iliasssss/Projet-Gr
 | :-- |:----- | :---------- |
 | Ilias    | Scrum Master      | Garant de la progression et de l'application de la méthode scrum   |
 |  Michael   | Product Owner   |  Garant de la qualité du produit final et représentant du client   |
-|  Jérôme  |       |         Tests et travail sur présentation  |
+|  Jérôme  |       | Tests et travail sur présentation  |
 
 ### Semaine 2 
 | NOM | Roles | Description |
