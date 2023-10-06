@@ -1,4 +1,4 @@
- <p align =center> Guide d'installation de KeePass </p>
+# Guide d'installation de KeePass
 
 Ce guide d'installation, va vous permettre de suivre _PAS à PAS_ la procèdure d'installation du logiciel `KEEPASS`
 Pour cela nous allons débuter par le téléchargement du logiciel sur son [Site](https://keepass.info/), jusqu'au lancement de Keepass. (Date de Documentation 03 Octobre 2023)
