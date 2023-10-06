@@ -1,7 +1,7 @@
 # Projet1-Groupe-2 
 # [Keepass](https://keepass.info/)
  
-**L’outil Keepass est un gestionnaire de mots de passe qualifié par l’ANSSI utilisable à la fois dans le cadre professionnel et dans la sphère privée.**.
+**L’outil Keepass est un gestionnaire de mots de passe qualifié par l’ANSSI (Agence nationale de la sécurité des systèmes d'information) utilisable à la fois dans le cadre professionnel et dans la sphère privée.**.
 
 Il permet aux utilisateurs d’enregistrer dans un seul fichier entièrement protégé leurs différents mots de passe utilisés sur Internet.
 
