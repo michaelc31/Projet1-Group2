@@ -8,14 +8,14 @@ Il permet aux utilisateurs d’enregistrer dans un seul fichier entièrement pro
 
 ## Besoins Initiaux
 
-Demande de base : créer une base de données (ou _Database_ ou **BDD**) sécurisée par "Clé" stockée sur un serveur et utilisable par un client.
+Demande initiale : créer une base de données (ou _Database_ ou **BDD**) sécurisée par "Clé" stockée sur un serveur et utilisable par un client.
 
 Une BDD sécurisée par clé est une BDD à laquelle nous ajoutons, lors de sa création, un fichier clé contenant une clé de cryptage générée aléatoirement. Cela permet la liaison entre la BDD et le mot de passe maître (_Master Password_).
 
 
 ## Étapes d'installation et de configuration
 
-Vous trouverez un fichier [Install.md](https://github.com/iliasssss/Projet-Groupe-2/blob/main/Install.md), qui vous servira d'instruction d'installation étape par étape
+Vous trouverez un fichier [Install.md](https://github.com/iliasssss/Projet-Groupe-2/blob/main/Install.md), qui vous servira d'instruction d'installation étape par étape.
 
 Vous trouverez un fichier [USER_GUIDE.md](https://github.com/iliasssss/Projet-Groupe-2/blob/main/USER_GUIDE.md), pour vous aider à configurer le logiciel Keepass pas à pas.
 
