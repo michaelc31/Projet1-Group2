@@ -1,4 +1,17 @@
 # Guide d'installation v1.0 de KeePass2
+# Sommaire
+
+[Etape 1 :](https://github.com/michaelc31/Projet1-Group2/blob/main/Install.md#--etape-1-)
+
+[Etape 2 :](https://github.com/michaelc31/Projet1-Group2/blob/main/Install.md#--etape-2-)
+
+[Etape 3 :](https://github.com/michaelc31/Projet1-Group2/blob/main/Install.md#--etape-3)
+ 
+[Etape 4 :](https://github.com/michaelc31/Projet1-Group2/blob/main/Install.md#--etape-4-)
+
+[Etape 5 :](https://github.com/michaelc31/Projet1-Group2/blob/main/Install.md#--%C3%A9tape-5-)
+
+
 Ce guide d'installation, va vous permettre de suivre _PAS à PAS_ la procédure d'installation du logiciel `KEEPASS2`
 Pour cela nous allons débuter par le téléchargement du logiciel sur son [Site](https://keepass.info/), jusqu'au lancement de Keepass. (Date de Documentation 03 Octobre 2023)
 
