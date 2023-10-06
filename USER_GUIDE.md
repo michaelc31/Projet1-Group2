@@ -2,7 +2,7 @@
 
 # Sommaire
 
-[Les principal fonctionnalité de Keepass2](https://github.com/michaelc31/Projet1-Group2/blob/main/USER_GUIDE.md#les-principales-fonctionnalit%C3%A9s-de-keepass2)
+[Les principales fonctionnalités de Keepass2](https://github.com/michaelc31/Projet1-Group2/blob/main/USER_GUIDE.md#les-principales-fonctionnalit%C3%A9s-de-keepass2)
 
 [Préparer la base de données](https://github.com/michaelc31/Projet1-Group2/blob/main/USER_GUIDE.md#pr%C3%A9parer-la-base-de-donn%C3%A9es)
 
