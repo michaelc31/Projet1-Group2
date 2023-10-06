@@ -1,4 +1,4 @@
-# Guide d'installation v1.0 de KeePass2
+# _**Guide d'installation v1.0 de KeePass2**_
 
 Ce guide d'installation, va vous permettre de suivre _PAS à PAS_ la procédure d'installation du logiciel `KEEPASS2`
 Pour cela nous allons débuter par le téléchargement du logiciel sur son [Site](https://keepass.info/), jusqu'au lancement de Keepass. (Date de Documentation 03 Octobre 2023)
@@ -9,7 +9,7 @@ Pour cela nous allons débuter par le téléchargement du logiciel sur son [Site
     
     - Récupérer une version de Keepass2. (Documentation faite avec la derniere MAJ de Keepass2.54)
 
-# Sommaire
+# _**Sommaire**_
 
 [Etape 1 : Télécharger Keepass2](https://github.com/michaelc31/Projet1-Group2/blob/main/Install.md#--etape-1-) 
 
@@ -21,7 +21,7 @@ Pour cela nous allons débuter par le téléchargement du logiciel sur son [Site
 
 [Etape 5 : Lancement de Keepass2](https://github.com/michaelc31/Projet1-Group2/blob/main/Install.md#--%C3%A9tape-5-) 
 
-###  - _**Etape 1 :**_ 
+###  - _**Etape 1 : Télécharger Keepass2**_ 
 Sur le site officiel de **[keepass](https://keepass.info/)**. "a l'heure de la documentation la version 2.54 sera la version choisie."
 
 Cliquez sur le lien du nom de *"Keepass 2.54 Released"*, (si vous ne trouvez pas la Version 2.54, télécharger une mise à jour plus récente ou au moment de la 1ere utilisation de Keepass il vous demandera de faire une mise à jour.) 
@@ -32,13 +32,13 @@ Ce lien vous conduit directement sur la page Internet permettant le télécharge
 
 ![IMG](https://github.com/michaelc31/Projet-image/blob/main/install%201.png?raw=true)
 
-### - _**Etape 2 :**_  
+### - _**Etape 2 : Lancement de l'executable**_  
 
 Démarrez l'installation, une fois le logiciel téléchargé, cliquez sur l'executable afin d'initialiser l'installation.
 
 ![IMG](https://github.com/michaelc31/Projet-image/blob/main/install%202.png?raw=true)
 
-### - ***Etape 3:***
+### - _**Etape 3: Lancement de l'installation**_
 
 Au démarrage de l'installation le logiciel vous propose de choisir "sa langue" pour l'assistant d'installation.
 Dans notre cas, nous utiliserons le _"Français"_.
@@ -70,13 +70,13 @@ Encore quelques étapes..., nous allons associer Keepass avec l'extension de fic
 
 ![IMG](https://github.com/michaelc31/Projet-image/blob/main/install%207.png?raw=true)
 
-### - _**Etape 4 :**_
+### - _**Etape 4 : Finalisation de l'installation**_
 
 cliquez sur "Installer", cela lancera l'installation avec les paramètres precédemment indiqués.
 
 ![IMG](https://github.com/michaelc31/Projet-image/blob/main/install%208.png?raw=true)
 
-### - ***étape 5 :***
+### - _**étape 5 : Lancement de Keepass2**_
 
 Enfin. il ne vous reste plus qu'à cliquer sur "terminer" pour lancer le logiciel ou non en laissant cocher ou non "Exécuter Keepass"
 
