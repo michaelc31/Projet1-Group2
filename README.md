@@ -11,7 +11,7 @@ Demande de base : créer une Database sécurisée par "Clé" stockée sur un ser
 Une database sécurisée par clé est une database à laquelle nous ajoutons, lors de sa création, un fichier clé contenant une clé de cryptage générée aleatoirement. Cela permet la liaison entre la database et le mot de passe maitre.
 
 
-## Etapes d'installation et de configuration
+## Étapes d'installation et de configuration
 
 Vous trouverez un fichier [Install.md](https://github.com/iliasssss/Projet-Groupe-2/blob/main/Install.md), qui vous servira d'instruction d'installation étape par étape
 
