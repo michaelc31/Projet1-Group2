@@ -1,7 +1,9 @@
 # Projet1-Groupe-2 
 # [Keepass](https://keepass.info/)
  
-**Keepass Password Safe est un gestionnaire de mots de passe permettant de sauvegarder et sécuriser plusieurs mots de passe dans un seul fichier chiffré**.
+**L’outil Keepass est un gestionnaire de mots de passe qualifié par l’ANSSI utilisable à la fois dans le cadre professionnel et dans la sphère privée.**.
+
+Il permet aux utilisateurs d’enregistrer dans un seul fichier entièrement protégé leurs différents mots de passe utilisés sur Internet.
 
 
 ## Besoins Initiaux
@@ -83,7 +85,7 @@ Durant les 2 dernieres semaines nous avons realisé les tests suivants:
 
 -- Test démonstration pour la présentation.
 
-##  Futur améliorations :
+##  Futures améliorations
 
 Durant nos 2 semaines de Projet : nous avons reussi à créer la database sécurisée par Clé stocké sur le serveur et utilisable par le client sur son PC, et nous avons penser à améliorer le Projet en ajoutant les Addons suivant :
 
@@ -94,3 +96,13 @@ Durant nos 2 semaines de Projet : nous avons reussi à créer la database sécur
   - KPGoogleSync : Extension permettant la synchronisation avec Google Drive.
 
 Ce qui permettrait à l'utilisateur une utilisation quotidienne plus simple de Keepass tout en gardant un maximun de Sécurité.
+
+## Alternatives 
+
+Quelques gestionnaires gratuits et open source :
+
+[Bitwarden](https://bitwarden.com) : mots de passe stockés sur leurs serveurs, gratuit jusqu'à 1000 mots de passe.
+
+[Buttercup](https://buttercup.pw/) :  bonne alternative et multiplateformes (IOS, Android, macos, Linux, Windows)
+
+[Passky](https://passky.org/?utm_source=bdmtools&utm_medium=siteweb&utm_campaign=passky) :  moderne et gratuit multiplateformes entièrement gratuit
