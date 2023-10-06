@@ -9,7 +9,7 @@
 
 [Récupération d'information sur une Entrée](#Récupération-d'information-sur-une-Entrée)
 
-[#Réglage-Auto-Type-pour-une-saisie-automatique-reussi](https://github.com/michaelc31/Projet1-Group2/blob/main/USER_GUIDE.md#r%C3%A9glage-auto-type-pour-une-saisie-automatique-reussi-)
+[Réglage-Auto-Type-pour-une-saisie-automatique-reussi](https://github.com/michaelc31/Projet1-Group2/blob/main/USER_GUIDE.md#r%C3%A9glage-auto-type-pour-une-saisie-automatique-reussi-)
 
 [Problème](#Problème)
 
