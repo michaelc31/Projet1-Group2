@@ -11,15 +11,15 @@ Pour cela nous allons débuter par le téléchargement du logiciel sur son [Site
 
 # Sommaire
 
-[Etape 1 :](https://github.com/michaelc31/Projet1-Group2/blob/main/Install.md#--etape-1-) Télécharger Keepass2
+[Etape 1 : Télécharger Keepass2](https://github.com/michaelc31/Projet1-Group2/blob/main/Install.md#--etape-1-) 
 
-[Etape 2 :](https://github.com/michaelc31/Projet1-Group2/blob/main/Install.md#--etape-2-) Lancement de l'executable
+[Etape 2 : Lancement de l'executable](https://github.com/michaelc31/Projet1-Group2/blob/main/Install.md#--etape-2-) 
 
-[Etape 3 :](https://github.com/michaelc31/Projet1-Group2/blob/main/Install.md#--etape-3) Lancement de l'installation
+[Etape 3 : Lancement de l'installation](https://github.com/michaelc31/Projet1-Group2/blob/main/Install.md#--etape-3) 
  
-[Etape 4 :](https://github.com/michaelc31/Projet1-Group2/blob/main/Install.md#--etape-4-) Finalisation de l'installation
+[Etape 4 : Finalisation de l'installation](https://github.com/michaelc31/Projet1-Group2/blob/main/Install.md#--etape-4-) 
 
-[Etape 5 :](https://github.com/michaelc31/Projet1-Group2/blob/main/Install.md#--%C3%A9tape-5-) Lancement de Keepass2
+[Etape 5 : Lancement de Keepass2](https://github.com/michaelc31/Projet1-Group2/blob/main/Install.md#--%C3%A9tape-5-) 
 
 ###  - _**Etape 1 :**_ 
 Sur le site officiel de **[keepass](https://keepass.info/)**. "a l'heure de la documentation la version 2.54 sera la version choisie."
