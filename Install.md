@@ -15,7 +15,7 @@ Cliquez sur le lien du nom de *"Keepass 2.54 Released"*, (si vous ne trouvez pas
 
 ![IMG](https://github.com/michaelc31/Projet-image/blob/main/Install%200.png?raw=true)
 
-Ce lien vous conduit directement sur la page Internet permettant le téléchargement du logiciel et pour cela plusieurs liens apparaissent nous proposant le choix entre différentes versions du Logiciel. Cliquez sur la dernier version en mode "Normal", la version "Portable" est un version sans installation utilisable par clé USB.
+Ce lien vous conduit directement sur la page Internet permettant le téléchargement du logiciel et pour cela plusieurs liens apparaissent nous proposant le choix entre différentes versions du Logiciel. Cliquez sur la dernière version en mode "Normal", la version "Portable" est un version sans installation utilisable par clé USB.
 
 ![IMG](https://github.com/michaelc31/Projet-image/blob/main/install%201.png?raw=true)
 
@@ -33,7 +33,7 @@ Choissisez votre Language et cliquez sur **"Suivant"**
 
 ![IMG](https://github.com/michaelc31/Projet-image/blob/main/install%203.png?raw=true)
 
-Une fois réalisé, nous passons sur l'accord de Licence que nous devons accepter pour poursuivre l'installation.
+Une fois réalisée, nous passons sur l'accord de licence que nous devons accepter pour poursuivre l'installation.
 
 ![IMG](https://github.com/michaelc31/Projet-image/blob/main/install%204.png?raw=true)
 
@@ -45,9 +45,9 @@ Dans la suite de l'installation, nous allons choisir le dossier de destination d
 
 ***A cette étape***, nous allons définir comment nous allons installer le logiciel,
 
-     - Installation complète : installe tous les composants du logiciel
+     - Installation complète : installe tous les composants du logiciel.
      
-     - Installation compacte : installe que les fichiers de base Keepass 
+     - Installation compacte : installe que les fichiers de base Keepass. 
      
      - Installation personnalisée : permet de séléctionner les composants du logiciel que vous voulez installer.
 
@@ -59,7 +59,7 @@ Encore quelques étapes..., nous allons associer Keepass avec l'extension de fic
 
 ### - _**Etape 4 :**_
 
-cliquez sur "Installer", cela lancera l'installation avec les paramètres precédemment indiqué.
+cliquez sur "Installer", cela lancera l'installation avec les paramètres precédemment indiqués.
 
 ![IMG](https://github.com/michaelc31/Projet-image/blob/main/install%208.png?raw=true)
 
