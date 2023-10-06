@@ -87,11 +87,11 @@ Durant les 2 dernieres semaines nous avons realisé les tests suivants:
 
 ##  Futures améliorations
 
-Durant nos 2 semaines de Projet : nous avons reussi à créer la database sécurisée par Clé stocké sur le serveur et utilisable par le client sur son PC, et nous avons penser à améliorer le Projet en ajoutant les Addons suivant :
+Durant nos 2 semaines de projet : nous avons reussi à créer la database sécurisée par clé stockée sur le serveur et utilisable par le client sur son PC, et nous avons pensé à améliorer le projet en ajoutant les Addons suivants :
 
-  -  KEEFORM : extension permettant la saise automatique des données sans passer par l'interface Keepass rendant l'utilisation optimale selon le navigateur. (réglage a faire en fonction du navigateur intenet).
+  -  KEEFORM : extension permettant la saise automatique des données sans passer par l'interface Keepass rendant l'utilisation optimale selon le navigateur. (réglage a faire en fonction du navigateur internet).
 
-  -  KEEPASS AUTO UNLOCK : Extension administrative permettant le dévérrouillage de la Database sans identification (identification verouiller sur un fichier permettant la liaison entre Keepass et la Database).
+  -  KEEPASS AUTO UNLOCK : Extension administrative permettant le dévérrouillage de la Database sans identification (identification verouillée sur un fichier permettant la liaison entre Keepass et la Database).
 
   - KPGoogleSync : Extension permettant la synchronisation avec Google Drive.
 
