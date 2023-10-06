@@ -1,25 +1,24 @@
-# <font color='red'><p align =center>Projet-Groupe-2 </font> </p> 
-
-### <p align =center> [Keepass](https://keepass.info/)
+# Projet1-Groupe-2 
+# [Keepass](https://keepass.info/)
  
 **Keepass Password Safe est un gestionnaire de mots de passe permettant de sauvegarder et sécuriser plusieurs mots de passe dans un seul fichier chiffré**.
 
 
-## <font color='red'> <p align =center> Besoins Initiaux
+## Besoins Initiaux
 
 Demande de base : créer une Database sécurisée par "Clé" stockée sur un serveur et utilisable par un client.
 
 Une database sécurisée par clé est une database à laquelle nous ajoutons, lors de sa création, un fichier clé contenant une clé de cryptage générée aleatoirement. Cela permet la liaison entre la database et le mot de passe maitre.
 
 
-## <font color='red'> <p align =center> Etapes d'installation et de configuration
+## Etapes d'installation et de configuration
 
 Vous trouverez un fichier [Install.md](https://github.com/iliasssss/Projet-Groupe-2/blob/main/Install.md), qui vous servira d'instruction d'installation étape par étape
 
 vous trouverez un fichier [USER_GUIDE.md](https://github.com/iliasssss/Projet-Groupe-2/blob/main/USER_GUIDE.md), pour vous aider à configurer le logiciel Keepass pas à pas.
 
 
-## <font color='red'> <p align =center> Rôles par semaine
+##  Rôles par semaine
 
 ### Semaine 1 
 | NOM | Roles | Description |
@@ -35,14 +34,14 @@ vous trouverez un fichier [USER_GUIDE.md](https://github.com/iliasssss/Projet-Gr
 |  Jérôme  |  Product Owner   |  Garant de la qualité du produit final et représentant du client    |
 
 
-## <font color='red'> <p align =center> Choix Techniques
+##  Choix Techniques
 
 Pour notre projet Keepass, nous avons besoin d'un client et d'un serveur. Notre équipe a choisi de prendre un windows 10 et un windows 2022 serveur ainsi que le logiciel Keepass2 "version2.54" qui est à ce jour (05/10/2023) la dernière version de Keepass.
 
 Pour pouvoir accéder à la database sur le client depuis le serveur, nous avons besoin que nos machines soient sur le même réseau, la database sera stockée sur un fichier partagé. 
 
 
-## <font color='red'><p align =center> Les difficultés rencontrées
+##  Les difficultés rencontrées
 
 Durant nos différents tests, nous avons eté confronté aux incidents suivants: 
 
@@ -53,7 +52,7 @@ Durant nos différents tests, nous avons eté confronté aux incidents suivants:
  -  Incident avec "AutoType" : selon les sites et leur mode d'authentification "l'AutoType" ne fonctione pas systématiquement.
 
 
-## <font color='red'><p align =center> Les solutions 
+##  Les solutions 
 
 Pour resoudre les differents incidents rencontrés nous avons effectué de nombreux tests pour parvenir aux solutions suivantes :
  
@@ -64,7 +63,7 @@ Pour resoudre les differents incidents rencontrés nous avons effectué de nombr
  -  Il faut selon le site faire un reglage dans les commandes AutoType pour que celle-ci fonctionne et remplace la ligne {USERNAME}{TAB}{PASSWORD}{ENTER} par {USERNAME}{TAB}{TAB}{PASSWORD}{ENTER} ou {USERNAME}{ENTER}{DELAY=1000}{PASSWORD}{ENTER} 
 
 
-## <font color='red'><p align =center> Les tests réalisés
+##  Les tests réalisés
 
 Durant les 2 dernieres semaines nous avons realisé les tests suivants:
 
@@ -84,7 +83,7 @@ Durant les 2 dernieres semaines nous avons realisé les tests suivants:
 
 -- Test démonstration pour la présentation.
 
-## <font color='red'><p align = center> Futur améliorations :
+##  Futur améliorations :
 
 Durant nos 2 semaines de Projet : nous avons reussi à crée la database sécurisée par Clé stocké sur le serveur et utilisable par le client sur son PC, et nous avons penser à améliorer le Projet en ajoutant les Addons suivant :
 
